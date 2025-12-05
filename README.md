@@ -17,7 +17,7 @@
 | GraphRag Agent | [GraphRag 및 에이전트 리뷰](https://github.com/suhan1433/GraphRag_Research) |
 | BitNet | [BitNet 리뷰](https://github.com/suhan1433/BitNet_study) |
 
-## DataGenration
+## DataGeneration
 | 주제 | 링크 |
 |------|-----------|
 | 법률 데이터 생성 방법론 | [legal QA data](https://github.com/suhan1433/Legal_QA_data_generation) |
