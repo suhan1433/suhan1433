@@ -8,7 +8,7 @@
 | G-eval | [확률 기반 LLM-Judge](https://github.com/suhan1433/LLM-as-a-judge-using-G-eval) |
 | SelectiveCiteProcessor | [소형 모델의 RAG 성능 향상 트릭](https://github.com/suhan1433/SelectiveCiteProcessor) |
 | ReAct-Scratch | [ReAct이해를 위한 Scratch 구현](https://github.com/suhan1433/ReAct-Scratch) |
-| Transformers without Normlization | [학습 속도 향상을 위한 Layernorm 제거 실험](https://github.com/suhan1433/ReAct-Scratch) |
+| Transformers without Normlization | [학습 속도 향상을 위한 Layernorm 제거 실험](https://github.com/suhan1433/Transformers-without-Normalization) |
 | CI/CD 환경 구축 | [CI/CD](https://github.com/suhan1433/SuperResolution) |
 
 ## Reasearch
